@@ -1,4 +1,4 @@
 Nparser
 =======
 
-My own small parser.
+Casperjs utility for searching nude photo.
